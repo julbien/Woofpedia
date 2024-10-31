@@ -1,0 +1,98 @@
+.custom-fixed-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.bg-pink {
+    background-color: #D7487D;
+}
+
+.navbar-brand {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.navbar-brand img {
+    width: 80px; 
+    margin-right: 10px; 
+    vertical-align: middle; 
+}
+
+.navbar-nav .nav-item {
+    margin-right: 30px;
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-right: 0; 
+}
+
+.home-text h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.home-dog {
+    color: #2A4996;
+}
+
+.home-lovecare{
+    color: #D7487D;
+}
+
+#about {
+    background-color: #2A4996;
+    color: white;
+}
+
+#gallery {
+    background-color: #FBC1C1;
+    color: white;
+}
+
+#about img{
+    width: 300px;
+    display: block; 
+    margin: 0 auto;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card{
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.col img {
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.custom-width {
+    max-width: 500px;
+    width: 100%;
+}
+
+.social-icons a {
+    margin-right: 0.5rem; 
+    font-size: 1.2rem; 
+    transition: color 0.3s;
+    color: white;
+}
+
+.social-icons a:hover {
+    color: #2A4996; 
+}
+
+footer span{
+    color: white;
+}
+
+.footer-line {
+    background-color: white;
+    width: 90%;
+    margin: 0 auto 10px; 
+}
+
+.social-icons a {
+    margin-right: 0.5rem;
+}
